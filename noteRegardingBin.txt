@@ -1,0 +1,11 @@
+This is an additional note left regarding the bin folder and the multiple
+QueueTester.class files that are visible. I went in for office hours to ask
+about this issue and was told that it was okay given it didn't cause any
+any issues within my code. I still wanted to leave a note just because it
+looks worrisome and would like to avoid getting anything deducted for something
+that I looked through Google on if there were any instances of this occuring and
+what might have caused it. When I look through the code of QueueTester.class, it even
+shows instances where it refers to these 4 classes as QueueTester$1-$4 respectively.
+Like I iterated previously, I have no idea how it occurred, I was working on it on
+3/22/2024 and when i checked the tree it showed up. It didn't look like this previously
+before that date.
